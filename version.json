@@ -1,5 +1,5 @@
 {
-    "latest_version": "1.0.2",
-    "download_url": "https://github.com/ckouffsyrup/NexusBar/releases/download/v1.0.2/NexusBarSetup.exe",
+    "latest_version": "1.0.3",
+    "download_url": "https://github.com/ckouffsyrup/NexusBar/releases/download/v1.0.3/NexusBarSetup.exe",
     "notes": "Removed tray mode, added built-in updater, improved startup behavior."
 }
