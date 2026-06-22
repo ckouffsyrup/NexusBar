@@ -1,5 +1,5 @@
 {
-    "latest_version": "1.0.6",
-    "download_url": "https://github.com/ckouffsyrup/NexusBar/releases/download/v1.0.6/NexusBarSetup.exe",
-    "notes": " Smart Launcher Update: added fuzzy search, launch stats for all apps, single instance protection, and a most used apps category."
+    "latest_version": "1.0.7",
+    "download_url": "https://github.com/ckouffsyrup/NexusBar/releases/download/v1.0.7/NexusBarSetup.exe",
+    "notes": " Polished the NexusBar experience with smoother performance, refined UI consistency, improved interactions, safer config handling, and numerous quality-of-life improvements."
 }
