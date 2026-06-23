@@ -1,5 +1,5 @@
 {
-    "latest_version": "1.0.7",
-    "download_url": "https://github.com/ckouffsyrup/NexusBar/releases/download/v1.0.7/NexusBarSetup.exe",
-    "notes": " Polished the NexusBar experience with smoother performance, refined UI consistency, improved interactions, safer config handling, and numerous quality-of-life improvements."
+    "latest_version": "2.0.0",
+    "download_url": "https://github.com/YOUR_USERNAME/NexusBar/releases/download/v2.0.0/NexusBarSetup.exe",
+    "notes": "NexusBar 2.0 promotes the new dashboard UI to stable with real app icons, custom backgrounds, theme packs, redesigned settings, updater integration, and a cleaner desktop shelf experience."
 }
