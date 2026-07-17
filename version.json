@@ -1,5 +1,5 @@
 {
-    "latest_version": "2.0.1",
-    "download_url": "https://github.com/ckouffsyrup/NexusBar/releases/download/v2.0.1/NexusBarSetup.exe",
-    "notes": "NexusBar 2.0.1 adds custom welcome messages and optional launch statistics, including per-shortcut launch counts and a toggleable dashboard chart for most-used apps."
+    "latest_version": "2.0.2",
+    "download_url": "https://github.com/ckouffsyrup/NexusBar/releases/download/v2.0.2/NexusBarSetup.exe",
+    "notes": "NexusBar 2.0.2 adds the ability to override auto-assigned categories."
 }
